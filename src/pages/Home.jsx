@@ -122,7 +122,7 @@ Requirements:
       {/* GitHub Link */}
       <div className="flex items-center justify-center mt-8">
         <a 
-          href="YOUR_GITHUB_REPO_URL" 
+          href="https://github.com/lakshayysinghh/CODEFORGE---AI-comp-gen-" 
           target="_blank" 
           rel="noopener noreferrer"
           className="flex items-center gap-2 px-3 py-1.5 rounded-md text-gray-400 hover:text-white transition-colors group"
